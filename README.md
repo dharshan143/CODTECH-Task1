@@ -26,3 +26,9 @@ Certainly! Here's a simple Python program for a calculator that can perform basi
    - After performing the selected operation, the program prints the result.
 
 This program handles basic arithmetic operations and includes basic input validation to ensure it operates correctly based on user input.
+
+Output :
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/eff84b09-eebd-458c-a232-4dd2fa3f8093)
+
